@@ -1,0 +1,9 @@
+site_id,site_name,zone,priority,lon,lat
+S1,North Campus Sensor Hub,North,High,-78.8890,42.9580
+S2,Riverside Monitoring Site,West,Medium,-78.9030,42.9220
+S3,Downtown Edge Node,Central,High,-78.8780,42.8860
+S4,East Utility Checkpoint,East,Low,-78.8200,42.9000
+S5,South Transit Sensor Point,South,Medium,-78.8600,42.8400
+S6,Lakefront Test Station,West,High,-78.9100,42.9150
+S7,University Research Annex,Central,Medium,-78.7920,42.9500
+S8,Industrial Park Pilot Site,East,Low,-78.7600,42.9050
