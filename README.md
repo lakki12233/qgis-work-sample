@@ -2,6 +2,8 @@
 
 This repository contains a simple QGIS work sample created using geocoded CSV point data.
 
+Created a QGIS project using geocoded CSV point data, categorized site priority, labeled features, generated 1 km service-area buffers, and exported a publication-style map layout.
+
 ## Project Summary
 Built a QGIS map project that:
 - imports CSV point data using latitude/longitude
