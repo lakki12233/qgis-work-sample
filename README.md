@@ -19,4 +19,4 @@ Built a QGIS map project that:
 - `qgis_demo_project.qgz` — QGIS project file
 
 ## Preview
-![QGIS Work Sample](qgis_work_sample.png)
+![QGIS Work Sample](QGIS%20Demo%20Layout.png)
